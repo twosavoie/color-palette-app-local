@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/color-palette-app-local/static/css/main.181be575.chunk.css",
+    "main.js": "/color-palette-app-local/static/js/main.e6fd8a4e.chunk.js",
+    "main.js.map": "/color-palette-app-local/static/js/main.e6fd8a4e.chunk.js.map",
+    "runtime-main.js": "/color-palette-app-local/static/js/runtime-main.ad48f0d2.js",
+    "runtime-main.js.map": "/color-palette-app-local/static/js/runtime-main.ad48f0d2.js.map",
+    "static/js/2.22725ae2.chunk.js": "/color-palette-app-local/static/js/2.22725ae2.chunk.js",
+    "static/js/2.22725ae2.chunk.js.map": "/color-palette-app-local/static/js/2.22725ae2.chunk.js.map",
+    "index.html": "/color-palette-app-local/index.html",
+    "static/css/main.181be575.chunk.css.map": "/color-palette-app-local/static/css/main.181be575.chunk.css.map",
+    "static/js/2.22725ae2.chunk.js.LICENSE.txt": "/color-palette-app-local/static/js/2.22725ae2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad48f0d2.js",
+    "static/js/2.22725ae2.chunk.js",
+    "static/css/main.181be575.chunk.css",
+    "static/js/main.e6fd8a4e.chunk.js"
+  ]
+}
